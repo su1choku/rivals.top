@@ -22,7 +22,6 @@ nav a:hover {
 
 main {
     padding: 20px;
-    white-space: pre-line;
 }
 
 h1 {
@@ -33,6 +32,8 @@ h1 {
 
 p {
     line-height: 1.6;
+    white-space: pre-wrap;
+
 }
 
 a,
